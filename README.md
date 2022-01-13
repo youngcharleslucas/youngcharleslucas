@@ -1,8 +1,8 @@
-# Hello! 👋 My name is Charles Young 
+## Hello! 👋 My name is Charles Young 
 
 <br />
 
-## I'm a ⚓ NAVY Veteran and 💻 Developer!!
+### I'm a ⚓ NAVY Veteran and 💻 Developer!!
 
 - I have a Software Developer certificate from devCode Camp
 - Check out my [10 day capstone project and bio][techhire]
