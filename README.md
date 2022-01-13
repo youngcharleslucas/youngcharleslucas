@@ -1,6 +1,5 @@
 ## Hello! 👋 My name is Charles Young 
 
-<br />
 
 ### I'm a ⚓ NAVY Veteran and 💻 Developer!!
 
@@ -10,7 +9,6 @@
 - While in the NAVY I served on a fast-attack submarine as a Nuclear Machinist Mate
 - Prior to my enlistment, I earned a 5 year Master of Architecture from Kansas State University
 
-<br />
 
 ### Languages and Tools:
 
