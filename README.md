@@ -42,3 +42,10 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngcharleslucas&hide_border=true)](https://github.com/youngcharleslucas/github-readme-stats)
 
 <!-- Stat Card End-->
+
+<!-- Compact Language Card Start from: -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngcharleslucas&layout=compact&hide_border=true)](https://github.com/youngcharleslucas/github-readme-stats)
+
+<!-- Compact Language Card End -->
+
