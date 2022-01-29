@@ -36,12 +36,14 @@
 [techhire]: https://techhire.io/charles-luke-young/
 [linkedin]: https://www.linkedin.com/in/charles-lucas-young/
 
+
 <!-- Stat Card Start from: https://github.com/anuraghazra/github-readme-stats.git -->
   <!-- Change the user name to your github -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngcharleslucas&hide_border=true)](https://github.com/youngcharleslucas/github-readme-stats)
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngcharleslucas&hide_border=true)](https://github.com/youngcharleslucas/github-readme-stats)--->
 
 <!-- Stat Card End-->
+
 
 <!-- Compact Language Card Start from: -->
 
