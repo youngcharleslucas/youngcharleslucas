@@ -7,7 +7,6 @@
 - Check out my [10 day capstone project and bio][techhire]
 - Find out more information about me on my [LinkedIn][linkedin]
 - While in the NAVY I served on a fast-attack submarine as a Nuclear Machinist Mate
-- Prior to my enlistment, I earned a 5 year Master of Architecture from Kansas State University
 
 
 ### Languages and Tools:
